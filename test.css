@@ -1,3 +1,10 @@
-b {color: grey}
-h1 {font-family: "Times New Roman"}
-body {background-color:#9CF3F8}
+b {color: #818080;}
+body {font-family: "Times New Roman"}
+body {background-color:#8B375A}
+h2 {display: flex; justify-content:center;}
+h2 {font-size: 35px}
+h3 {display: flex; justify-content:center;}
+#para1 {display: flex; justify-content: center;}
+body {font-size: 19px}
+ul {font-size: 19px}
+#para4 {jessieleggatt: <span class="glyphicon glyphicon-earphone"></span>}
